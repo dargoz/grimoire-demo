@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "203c36acab865781f57a4baa547a76c8",
+  "assets/AssetManifest.json": "3e6d75a3cae543d7dfb4fce09ff73f45",
 "assets/FontManifest.json": "56446965d1b20b124876db24f97ca5e4",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/fonts/segoeuib.ttf": "299556cecd6b730bce8230f529e837a1",
@@ -12,8 +12,11 @@ const RESOURCES = {
 "assets/fonts/seguisb.ttf": "bc74928e0b7d13379ccf0b39354e87ad",
 "assets/fonts/seguisbi.ttf": "3f0b609427347ed7f9d60c8c2f0b2e14",
 "assets/fonts/seguisym.ttf": "c34e3e28c24e78dcd55b0a83c643d574",
-"assets/NOTICES": "8e4abfffb897d1dd5b02e6a3e8924411",
+"assets/NOTICES": "15440bc45e6c214fc59c7adb1acbf1b4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/grimoire/assets/icons/grimoire_logo_bw.png": "f4fbe61c6b5bc7f60958730b8a8abaa6",
+"assets/packages/grimoire/assets/images/grimoire_bg.jpg": "7342209c596ac3f8c0156ad40420126d",
+"assets/packages/grimoire/assets/lottie/loading_animation_bored_hand.json": "1ec26f8e24477d89e513cebab939e7be",
 "assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
@@ -25,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0a69f60a5074bcb79d346de72aaba057",
-"/": "0a69f60a5074bcb79d346de72aaba057",
-"main.dart.js": "25bae81f327a2d5f2b6fb39eaf9fe5a5",
+"index.html": "c6a8177098fd82cd6727d3246517786b",
+"/": "c6a8177098fd82cd6727d3246517786b",
+"main.dart.js": "70308e49d4d679d22311e3aca9844a0b",
 "manifest.json": "d6f7a071f877d8f0d9802cb537b2bdb6",
 "version.json": "437d86b457b0db5703a872f7c7d864d3"
 };
